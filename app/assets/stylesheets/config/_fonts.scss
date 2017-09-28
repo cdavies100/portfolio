@@ -1,9 +1,14 @@
 // Import Google fonts
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
-
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Alegreya+Sans+SC:400,800|Alice|Amiri|Barrio|Cabin+Sketch:400,700|Fredericka+the+Great|Julius+Sans+One|Lato|Lobster+Two|Nixie+One|Overlock+SC|Ruluko');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700');
 // Define fonts for body and headers
-$body-font: "Open Sans", "Helvetica", "sans-serif";
-$headers-font: "Raleway", "Helvetica", "sans-serif";
+$body-font: "Ruluko", "Helvetica", "sans-serif"; // don't like this one
+$headers-font: "Barrio", "Helvetica", "sans-serif";
+// $title-font: "Cabin Sketch"; // don't like this one either
+// $title-font: "Julius Sans One";
+// $title-font: "Overlock SC";
+$title-font: "Source Sans Pro";
 
 // To use a font file (.woff) uncomment following lines
 // @font-face {
